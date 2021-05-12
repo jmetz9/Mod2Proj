@@ -1,0 +1,14 @@
+span {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 1px white solid;
+}
+
+.dug {
+    background-color: brown;
+}
+.bone {
+    background-color: blue;
+}
