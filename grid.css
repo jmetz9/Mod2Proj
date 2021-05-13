@@ -6,9 +6,17 @@ span {
     border: 1px white solid;
 }
 
-.dug {
-    background-color: brown;
+.bone{
+
 }
-.bone {
-    background-color: blue;
+
+.noClick{
+
+}
+
+.center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
