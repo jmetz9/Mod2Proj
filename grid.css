@@ -10,6 +10,20 @@ span {
 
 }
 
+.message{
+    font-size: 90px;
+}
+
+.counter{
+    font-size: 30px;
+    margin-top: -230px;
+}
+
+.meter{
+    font-size: 30px;
+    margin-top: 250px;
+}
+
 .noClick{
 
 }
